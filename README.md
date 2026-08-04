@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itisisam/Leet_Solutions/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0946-validate-stack-sequences](https://github.com/itisisam/Leet_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itisisam/Leet_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itisisam/Leet_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/itisisam/Leet_Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/itisisam/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/itisisam/Leet_Solutions/tree/master/0763-partition-labels) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itisisam/Leet_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/itisisam/Leet_Solutions/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/itisisam/Leet_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
