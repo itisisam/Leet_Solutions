@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0946-validate-stack-sequences](https://github.com/itisisam/Leet_Solutions/tree/master/0946-validate-stack-sequences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itisisam/Leet_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/itisisam/Leet_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itisisam/Leet_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/itisisam/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/itisisam/Leet_Solutions/tree/master/0763-partition-labels) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itisisam/Leet_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itisisam/Leet_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
