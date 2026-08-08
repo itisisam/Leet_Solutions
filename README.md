@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/itisisam/Leet_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/itisisam/Leet_Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/itisisam/Leet_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/itisisam/Leet_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itisisam/Leet_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -91,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/itisisam/Leet_Solutions/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itisisam/Leet_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/itisisam/Leet_Solutions/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itisisam/Leet_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/itisisam/Leet_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/itisisam/Leet_Solutions/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
