@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/itisisam/Leet_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itisisam/Leet_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/itisisam/Leet_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/itisisam/Leet_Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itisisam/Leet_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0763-partition-labels](https://github.com/itisisam/Leet_Solutions/tree/master/0763-partition-labels) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itisisam/Leet_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/itisisam/Leet_Solutions/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/itisisam/Leet_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/itisisam/Leet_Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itisisam/Leet_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0445-add-two-numbers-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0445-add-two-numbers-ii) |
 ## Stack
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/itisisam/Leet_Solutions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/itisisam/Leet_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/itisisam/Leet_Solutions/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itisisam/Leet_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/itisisam/Leet_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/itisisam/Leet_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
