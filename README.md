@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/itisisam/Leet_Solutions/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itisisam/Leet_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itisisam/Leet_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/itisisam/Leet_Solutions/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/itisisam/Leet_Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
