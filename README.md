@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/itisisam/Leet_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/itisisam/Leet_Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itisisam/Leet_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0264-ugly-number-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0264-ugly-number-ii) |
 | [0763-partition-labels](https://github.com/itisisam/Leet_Solutions/tree/master/0763-partition-labels) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itisisam/Leet_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itisisam/Leet_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itisisam/Leet_Solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itisisam/Leet_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0264-ugly-number-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0264-ugly-number-ii) |
 | [0445-add-two-numbers-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itisisam/Leet_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/itisisam/Leet_Solutions/tree/master/0877-stone-game) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itisisam/Leet_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/itisisam/Leet_Solutions/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/itisisam/Leet_Solutions/tree/master/0877-stone-game) |
 ## Game Theory
