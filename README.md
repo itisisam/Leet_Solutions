@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/itisisam/Leet_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/itisisam/Leet_Solutions/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itisisam/Leet_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1845-seat-reservation-manager](https://github.com/itisisam/Leet_Solutions/tree/master/1845-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itisisam/Leet_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1845-seat-reservation-manager](https://github.com/itisisam/Leet_Solutions/tree/master/1845-seat-reservation-manager) |
 ## String
 |  |
 | ------- |
