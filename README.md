@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/itisisam/Leet_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/itisisam/Leet_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itisisam/Leet_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3675-minimum-operations-to-transform-string](https://github.com/itisisam/Leet_Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/itisisam/Leet_Solutions/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/itisisam/Leet_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/itisisam/Leet_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3675-minimum-operations-to-transform-string](https://github.com/itisisam/Leet_Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/itisisam/Leet_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/itisisam/Leet_Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Backtracking
