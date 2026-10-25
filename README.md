@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/itisisam/Leet_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0264-ugly-number-ii) |
 | [0763-partition-labels](https://github.com/itisisam/Leet_Solutions/tree/master/0763-partition-labels) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/itisisam/Leet_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itisisam/Leet_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itisisam/Leet_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itisisam/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/itisisam/Leet_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/itisisam/Leet_Solutions/tree/master/0695-max-area-of-island) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/itisisam/Leet_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itisisam/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/itisisam/Leet_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/itisisam/Leet_Solutions/tree/master/0695-max-area-of-island) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/itisisam/Leet_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 |  |
 | ------- |
