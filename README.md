@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itisisam/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/itisisam/Leet_Solutions/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/itisisam/Leet_Solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/itisisam/Leet_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/itisisam/Leet_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itisisam/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/itisisam/Leet_Solutions/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/itisisam/Leet_Solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/itisisam/Leet_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/itisisam/Leet_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0099-recover-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/itisisam/Leet_Solutions/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
