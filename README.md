@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itisisam/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/itisisam/Leet_Solutions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/itisisam/Leet_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/itisisam/Leet_Solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/itisisam/Leet_Solutions/tree/master/1254-number-of-closed-islands) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itisisam/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/itisisam/Leet_Solutions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/itisisam/Leet_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/itisisam/Leet_Solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/itisisam/Leet_Solutions/tree/master/1254-number-of-closed-islands) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/itisisam/Leet_Solutions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/itisisam/Leet_Solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/itisisam/Leet_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
@@ -337,5 +340,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/itisisam/Leet_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/itisisam/Leet_Solutions/tree/master/0841-keys-and-rooms) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/itisisam/Leet_Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/itisisam/Leet_Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
