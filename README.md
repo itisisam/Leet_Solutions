@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/itisisam/Leet_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itisisam/Leet_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itisisam/Leet_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/itisisam/Leet_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itisisam/Leet_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/itisisam/Leet_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itisisam/Leet_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/itisisam/Leet_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3675-minimum-operations-to-transform-string](https://github.com/itisisam/Leet_Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/itisisam/Leet_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/itisisam/Leet_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/itisisam/Leet_Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Backtracking
 |  |
