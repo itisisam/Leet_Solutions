@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itisisam/Leet_Solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itisisam/Leet_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/itisisam/Leet_Solutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0264-ugly-number-ii) |
 | [0445-add-two-numbers-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itisisam/Leet_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/itisisam/Leet_Solutions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/itisisam/Leet_Solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/itisisam/Leet_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/itisisam/Leet_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/itisisam/Leet_Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itisisam/Leet_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itisisam/Leet_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
