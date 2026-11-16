@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/itisisam/Leet_Solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/itisisam/Leet_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/itisisam/Leet_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/itisisam/Leet_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/itisisam/Leet_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itisisam/Leet_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itisisam/Leet_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itisisam/Leet_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/itisisam/Leet_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/itisisam/Leet_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/itisisam/Leet_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itisisam/Leet_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3675-minimum-operations-to-transform-string](https://github.com/itisisam/Leet_Solutions/tree/master/3675-minimum-operations-to-transform-string) |
