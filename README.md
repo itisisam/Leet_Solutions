@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/itisisam/Leet_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/itisisam/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/itisisam/Leet_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/itisisam/Leet_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/itisisam/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/itisisam/Leet_Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/itisisam/Leet_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Doubly-Linked List
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/itisisam/Leet_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Graph Theory
 |  |
 | ------- |
